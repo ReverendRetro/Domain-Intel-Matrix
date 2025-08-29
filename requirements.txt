@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+dnspython
+python-whois
+requests
+ipaddress
